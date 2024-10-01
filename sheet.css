@@ -1,0 +1,24 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+}
+.BigDiv{
+    border: 3px green solid;
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    margin-top: 25px;
+    font-family: sans-serif;
+}
+#fish{
+    margin-top: 100px;
+}
+#div1{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+#div2{
+    padding: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
